@@ -1,0 +1,6 @@
+@infoproDigitalTechTask_HostAddress = http://localhost:5058
+
+GET {{infoproDigitalTechTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
